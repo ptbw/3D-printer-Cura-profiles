@@ -41,3 +41,5 @@ Firstly, it may not be necessary to create your own profile, if you have some re
 However, if you think the slicing profiles could be supplemented then feel free to create your own, but please use the file name convention shown above.
 
 Unfortunately the Octoprint Cura plugin is a bit picky about which Cura .ini files it accepts. If you want to create a Cura profile you must download Cura version 15.04 or earlier. the newer version will not work. Cura can be downloaded here, please note version 2.x.x is actually newer than 15.x.x, the newer 2.x.x will not work.
+
+NFire delta printer profile to be added.
